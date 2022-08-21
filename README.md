@@ -1,5 +1,5 @@
-# Live 🚀
-[Live 🚀](https://todo-app-nd.netlify.app/)
+# Live 
+[TODO App 🚀](https://todo-app-nd.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
